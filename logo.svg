@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119.77233mm"
+   height="119.77235mm"
+   viewBox="0 0 119.77233 119.77235"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="439.6057"
+     inkscape:cy="316.5161"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1287"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1285" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.113829,-20.113828)">
+    <rect
+       style="fill:none;stroke:none;stroke-width:0.227656;stroke-opacity:1"
+       id="rect500"
+       width="119.77234"
+       height="119.77235"
+       x="20.113829"
+       y="20.113829"
+       inkscape:export-filename="logo_plain.svg"
+       inkscape:export-xdpi="63.619999"
+       inkscape:export-ydpi="63.619999" />
+    <g
+       id="g6333"
+       transform="translate(0,-4.9999988)">
+      <g
+         id="g6323">
+        <g
+           id="g6313">
+          <ellipse
+             style="fill:#d1e1ed;fill-opacity:0.890193;stroke:#000000;stroke-width:7.93162;stroke-dasharray:none;stroke-opacity:1"
+             id="path1283"
+             cx="75"
+             cy="75"
+             rx="41.034187"
+             ry="41.034191" />
+          <path
+             id="path1411"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+             d="M 75.000073,42.001571 A 33.817184,32.998623 0 0 0 42.071851,67.577271 40.708454,40.708454 0 0 1 76.967912,47.81827 40.708454,40.708454 0 0 1 104.08719,58.170093 33.817184,32.998623 0 0 0 75.000073,42.001571 Z" />
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:11.8687;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           d="M 129.06564,129.06568 105.93436,105.93436"
+           id="path1407"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <g
+         id="g6317">
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.269636;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           id="path2062"
+           cx="72.745079"
+           cy="75.326942"
+           rx="5.3523703"
+           ry="6.8389134"
+           transform="rotate(8.5537314)" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.282025;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+           id="ellipse2251"
+           cx="57.146576"
+           cy="99.25296"
+           rx="5.6339331"
+           ry="7.1079197"
+           transform="matrix(0.98146478,-0.19164257,0.19677132,0.98044941,0,0)" />
+      </g>
+    </g>
+    <ellipse
+       style="fill:#000000;fill-opacity:0.129771;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path2929"
+       cx="75.278854"
+       cy="134.22725"
+       rx="37.773323"
+       ry="3.3862617" />
+  </g>
+</svg>
