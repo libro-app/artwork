@@ -1,4 +1,4 @@
-![liBro](logo_name_white_100.png)
+![liBro](logo_name/logo_name_white_100.png)
 
 Artwork and other graphics. PNG files are generated from SVG files with the same name.
 
