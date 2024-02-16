@@ -4,6 +4,6 @@ Artwork and other graphics. PNG files are generated from SVG files with the same
 
 ## Author & License
 
-Copyright (c) 2023 Mirko Westermeier
+Copyright (c) 2023-2024 Mirko Westermeier
 
 Released under the MIT license. See [LICENSE](LICENSE) for details.
